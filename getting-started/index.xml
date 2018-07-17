@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting-starteds on My New Hugo Site</title>
+    <link>http://example.org/getting-started/</link>
+    <description>Recent content in Getting-starteds on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Builds &amp; workflows</title>
+      <link>http://example.org/getting-started/builds-and-workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/builds-and-workflows/</guid>
+      <description>A build is the process specified by the app&amp;rsquo;s workflow, which is a collection of steps. Every step is an open source repository which you can inspect, modify, and run with the open source Bitrise CLI.
+The app&amp;rsquo;s build configuration can be specified as a yaml (bitrise.yml) config, which you can modify in bitrise.io&amp;rsquo;s graphical Workflow Editor UI (on your app&amp;rsquo;s Bitrise.io page click the Workflows tab), or yaml editor directly.</description>
+    </item>
+    
+    <item>
+      <title>Code security</title>
+      <link>http://example.org/getting-started/code-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/code-security/</guid>
+      <description>To guarantee the security of your builds we use virtual machines for builds. Every build runs in its own, clean virtual machine and we discard the whole virtual machine after the build finishes, erasing every file your build uses and every change you make during your build.
+This is also true for the Linux/Android stacks, which use Docker containers to run the build. The build itself still gets a full virtual machine where no other Docker container is started, only the one used as the environment of the build.</description>
+    </item>
+    
+  </channel>
+</rss>
