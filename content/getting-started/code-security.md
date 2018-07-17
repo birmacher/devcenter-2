@@ -1,11 +1,11 @@
----
-title: Code security
-menu:
-  main:
-    parent: Getting Started
-    weight: 2
++++
+date = "2018-07-17T21:04:17+00:00"
+title = "Code security"
+[menu.main]
+parent = "Getting Started"
+weight = 2
 
----
++++
 To guarantee the security of your builds we use [virtual machines](/infrastructure/virtual-machines) for builds.
 Every build runs in its own, clean virtual machine and we discard the whole virtual machine after the build finishes,
 erasing every file your build uses and every change you make during your build.

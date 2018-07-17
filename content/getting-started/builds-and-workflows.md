@@ -1,11 +1,11 @@
----
-title: Builds & workflows
-menu:
-  main:
-    parent: Getting Started
-    weight: 1
++++
+date = "2018-07-17T21:04:17+00:00"
+title = "Builds & workflows"
+[menu.main]
+parent = "Getting Started"
+weight = 1
 
----
++++
 A _build_ is the process specified by the app's _workflow_, which is a collection of _steps_. Every step is an **open source** repository which you can inspect, modify, and run with the [open source Bitrise CLI](https://www.bitrise.io/cli).
 
 The app's build configuration can be specified as a `yaml` (`bitrise.yml`) config, which you can modify in [bitrise.io](https://www.bitrise.io)'s graphical Workflow Editor UI (on your app's Bitrise.io page click the `Workflows` tab), or [yaml editor](http://blog.bitrise.io/2016/02/12/edit-your-yaml-files-like-a-boss.html) directly.
