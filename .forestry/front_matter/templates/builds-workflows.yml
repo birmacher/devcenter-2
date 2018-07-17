@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/getting-started/create-your-first-app-on-bitrise.md
 - content/getting-started/account-security.md
