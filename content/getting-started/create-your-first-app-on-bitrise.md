@@ -1,6 +1,9 @@
 +++
 date = "2018-07-17T21:04:17+00:00"
 title = "Create your first app on bitrise"
+[menu.main]
+parent = "Getting Started"
+weight = 1
 
 +++
 We are always refining our UI and UX, to achieve the best and smoothest experience possible, but at the same time give you enough room for experimentation and customization.
