@@ -1,6 +1,9 @@
 +++
 date = "2018-07-17T20:52:22+00:00"
 title = "Account security"
+[menu.main]
+parent = "Getting Started"
+weight = 4
 
 +++
 ## Enable Two-factor authentication[⚓](https://devcenter.bitrise.io/getting-started/account-security/#enable-two-factor-authentication "Permanent link")
