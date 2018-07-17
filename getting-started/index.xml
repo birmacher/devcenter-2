@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Getting-starteds on Bitrise Devcenter</title>
-    <link>https://birmacher.github.io/devcenter-2/getting-started/</link>
+    <link>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/</link>
     <description>Recent content in Getting-starteds on Bitrise Devcenter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 21:04:17 +0000</lastBuildDate>
     
-	<atom:link href="https://birmacher.github.io/devcenter-2/getting-started/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Create your first app on bitrise</title>
-      <link>https://birmacher.github.io/devcenter-2/getting-started/create-your-first-app-on-bitrise/</link>
+      <link>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/create-your-first-app-on-bitrise/</link>
       <pubDate>Tue, 17 Jul 2018 21:04:17 +0000</pubDate>
       
-      <guid>https://birmacher.github.io/devcenter-2/getting-started/create-your-first-app-on-bitrise/</guid>
+      <guid>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/create-your-first-app-on-bitrise/</guid>
       <description>We are always refining our UI and UX, to achieve the best and smoothest experience possible, but at the same time give you enough room for experimentation and customization.
 Because of the very reason of us believing that you should be able to do everything you want with Bitrise, some parts may seem a bit complex at first glance.
 This guide will help you get your first app up and running on Bitrise.</description>
@@ -24,30 +24,30 @@ This guide will help you get your first app up and running on Bitrise.</descript
     
     <item>
       <title>Account security</title>
-      <link>https://birmacher.github.io/devcenter-2/getting-started/account-security/</link>
+      <link>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/account-security/</link>
       <pubDate>Tue, 17 Jul 2018 20:52:22 +0000</pubDate>
       
-      <guid>https://birmacher.github.io/devcenter-2/getting-started/account-security/</guid>
+      <guid>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/account-security/</guid>
       <description>Enable Two-factor authentication⚓ We provide an extra layer of security if you enable Two-factor authentication (TFA) on your Bitrise account.
  Download and install Google Authenticator on your phone. Log in to bitrise.io and go to your Profile. Click Account settings. Scroll down and click Security on the left. Click on Enable under Two-factor authentication. Open your Google Authenticator and scan the QR-code that appears on your screen. Enter the 6-digit code that was generated.</description>
     </item>
     
     <item>
       <title>Builds &amp; workflows</title>
-      <link>https://birmacher.github.io/devcenter-2/getting-started/builds-and-workflows/</link>
+      <link>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/builds-and-workflows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://birmacher.github.io/devcenter-2/getting-started/builds-and-workflows/</guid>
+      <guid>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/builds-and-workflows/</guid>
       <description>A build is the process specified by the app&amp;rsquo;s workflow, which is a collection of steps. Every step is an open source repository which you can inspect, modify, and run with the open source Bitrise CLI.
 The app&amp;rsquo;s build configuration can be specified as a yaml (bitrise.yml) config, which you can modify in bitrise.io&amp;rsquo;s graphical Workflow Editor UI (on your app&amp;rsquo;s Bitrise.io page click the Workflows tab), or yaml editor directly.</description>
     </item>
     
     <item>
       <title>Code security</title>
-      <link>https://birmacher.github.io/devcenter-2/getting-started/code-security/</link>
+      <link>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/code-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://birmacher.github.io/devcenter-2/getting-started/code-security/</guid>
+      <guid>http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/getting-started/code-security/</guid>
       <description>To guarantee the security of your builds we use virtual machines for builds. Every build runs in its own, clean virtual machine and we discard the whole virtual machine after the build finishes, erasing every file your build uses and every change you make during your build.
 This is also true for the Linux/Android stacks, which use Docker containers to run the build. The build itself still gets a full virtual machine where no other Docker container is started, only the one used as the environment of the build.</description>
     </item>
