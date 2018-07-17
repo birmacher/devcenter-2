@@ -6,9 +6,20 @@
     <description>Recent content in Bitrise DevCenter on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 20:52:22 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Account security</title>
+      <link>http://example.org/getting-started/account-security/</link>
+      <pubDate>Tue, 17 Jul 2018 20:52:22 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/account-security/</guid>
+      <description>Enable Two-factor authentication⚓ We provide an extra layer of security if you enable Two-factor authentication (TFA) on your Bitrise account.
+ Download and install Google Authenticator on your phone. Log in to bitrise.io and go to your Profile. Click Account settings. Scroll down and click Security on the left. Click on Enable under Two-factor authentication. Open your Google Authenticator and scan the QR-code that appears on your screen. Enter the 6-digit code that was generated.</description>
+    </item>
     
     <item>
       <title>Builds &amp; workflows</title>

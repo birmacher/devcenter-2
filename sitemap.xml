@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/getting-started/account-security/</loc>
+    <lastmod>2018-07-17T20:52:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
+    <lastmod>2018-07-17T20:52:22+00:00</lastmod>
   </url>
   
   <url>
@@ -21,6 +27,7 @@
   
   <url>
     <loc>http://example.org/getting-started/</loc>
+    <lastmod>2018-07-17T20:52:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
