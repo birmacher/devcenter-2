@@ -1,7 +1,7 @@
 baseURL = "http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "Bitrise Devcenter"
 theme = "hugo-material-docs"
+title = "Bitrise Devcenter"
 [[menu.main]]
 name = "Getting Started"
 url = "/getting-started/"
