@@ -1,0 +1,9 @@
+<!-- jsxgraph -->
+{{ $.Page.Scratch.Set "using-railroad" "true" }}
+<div align="{{ if .Get "align" }}{{ .Get "align" }}{{ else }}left{{ end }}" class="railroad-text"><pre>Diagram({{ string .Inner }});</pre></div>
+<script type="text/javascript" src="/modules/railroad/inithook-railroad.js"></script>
+<!--Diagram.VERTICAL_SEPARATION=10;-->
+<!--Diagram.ARC_RADIUS=10;-->
+<!--Diagram.INTERNAL_ALIGNMENT='center';-->
+<!--Diagram.INTERNAL_ALIGNMENT='left';-->
+

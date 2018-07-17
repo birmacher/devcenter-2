@@ -1,0 +1,4 @@
+<!-- jsxgraph -->
+{{ $.Page.Scratch.Set "using-railroad" "true" }}
+<div align="{{ if .Get "align" }}{{ .Get "align" }}{{ else }}left{{ end }}" class="railroad-text"><pre>{{ string .Inner }}</pre></div>
+<script type="text/javascript" src="/modules/railroad/inithook-railroad.js"></script>
