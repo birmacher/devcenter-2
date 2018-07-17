@@ -1,6 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bitrise Devcenter"
+theme = "hugo-material-docs"
 [[menu.main]]
 name = "Getting Started"
 url = "/getting-started/"
