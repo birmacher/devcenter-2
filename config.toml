@@ -1,4 +1,4 @@
-baseURL = "https://birmacher.github.io/"
+baseURL = "https://birmacher.github.io/devcenter-2/"
 languageCode = "en-us"
 title = "Bitrise Devcenter"
 theme = "hugo-material-docs"
