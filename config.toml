@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://birmacher.github.io/devcenter-2/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bitrise Devcenter"
+theme = "hugo-material-docs"
