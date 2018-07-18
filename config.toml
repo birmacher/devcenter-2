@@ -2,11 +2,11 @@ baseURL = "http://demo.devcenter.bitrise.io.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 theme = "hugo-material-docs"
 title = "Bitrise Devcenter"
-[taxonomies]
-tag = ""
-group = ""
-category = ""
 [[menu.main]]
 name = "Getting Started"
 url = "/getting-started/"
 weight = 1
+[taxonomies]
+category = ""
+group = ""
+tag = ""

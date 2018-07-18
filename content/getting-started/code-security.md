@@ -3,7 +3,7 @@ date = "2018-07-17T21:04:17+00:00"
 title = "Code security"
 [menu.main]
 parent = "Getting Started"
-weight = 2
+weight = 1
 
 +++
 To guarantee the security of your builds we use [virtual machines](/infrastructure/virtual-machines) for builds.
